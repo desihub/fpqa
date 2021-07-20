@@ -1,3 +1,5 @@
+*This package was renamed from `fpqa` to `fpqa-legacy` and archived on 20-July-2021*
+
 # fpqa
 Focal Plane QA sandbox
 
